@@ -16,6 +16,7 @@ Everything you enter stays in the app's private storage on your device:
 - the anime you've rated, your ratings, and anything you marked as dropped
 - the genres you picked during setup
 - your "Save for later" and "Not interested" lists
+- your settings (for example whether ecchi / suggestive titles are shown)
 - the suggestions the app generated for you
 - a temporary copy (cache) of anime information downloaded from AniList, so the app is faster and works offline
 
@@ -49,14 +50,14 @@ If your phone's Android backup (for example to your Google account) is switched 
 
 ## Deleting your data
 
-- To change or remove individual entries, use **My Anime** in the app.
-- To delete everything, uninstall Tsugi or go to **Settings → Apps → Tsugi → Storage → Clear data** on your phone.
+- To change or remove individual entries, use **Profile** in the app.
+- To delete everything, use **Profile → Reset everything** in the app, uninstall Tsugi, or go to **Settings → Apps → Tsugi → Storage → Clear data** on your phone.
 
 Because we don't hold any of your data, there is nothing for us to delete on our side.
 
 ## Children
 
-Tsugi is not directed at children under 13 and does not knowingly collect any information from anyone. Adult-rated titles are filtered out of the app.
+Tsugi is not directed at children under 13 and does not knowingly collect any information from anyone. Explicit adult titles are always filtered out of the app, and suggestive (ecchi) titles are hidden unless the user switches them on in Profile.
 
 ## Future changes
 
