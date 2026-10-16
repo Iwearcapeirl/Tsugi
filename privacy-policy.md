@@ -64,4 +64,4 @@ If Tsugi adds features that change any of the above (for example an optional in-
 
 ## Contact
 
-Questions about this policy: **[CONTACT EMAIL]**
+Questions about this policy: **[sidehustletom94@gmail.com](mailto:sidehustletom94@gmail.com)**
